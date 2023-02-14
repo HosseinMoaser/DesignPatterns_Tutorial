@@ -1,0 +1,15 @@
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factory_Pattern.exe
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factory_Pattern.deps.json
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factory_Pattern.runtimeconfig.json
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factory_Pattern.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factory_Pattern.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.csproj.AssemblyReference.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.AssemblyInfoInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.AssemblyInfo.cs
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\refint\Factory_Pattern.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.genruntimeconfig.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\ref\Factory_Pattern.dll
