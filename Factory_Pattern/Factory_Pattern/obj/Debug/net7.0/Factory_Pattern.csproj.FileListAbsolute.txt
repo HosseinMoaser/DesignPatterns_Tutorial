@@ -13,3 +13,6 @@ C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\
 C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.pdb
 C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.genruntimeconfig.cache
 C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\ref\Factory_Pattern.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factorry_Pattern.Core.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\bin\Debug\net7.0\Factorry_Pattern.Core.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factory_Pattern\obj\Debug\net7.0\Factory_Pattern.csproj.CopyComplete

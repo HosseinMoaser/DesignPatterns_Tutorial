@@ -1,0 +1,12 @@
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\bin\Debug\net7.0\Factorry_Pattern.Core.deps.json
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\bin\Debug\net7.0\Factorry_Pattern.Core.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\bin\Debug\net7.0\Factorry_Pattern.Core.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.csproj.AssemblyReference.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.AssemblyInfoInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.AssemblyInfo.cs
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.csproj.CoreCompileInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\refint\Factorry_Pattern.Core.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\Factorry_Pattern.Core.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Factory_Pattern\Factorry_Pattern.Core\obj\Debug\net7.0\ref\Factorry_Pattern.Core.dll

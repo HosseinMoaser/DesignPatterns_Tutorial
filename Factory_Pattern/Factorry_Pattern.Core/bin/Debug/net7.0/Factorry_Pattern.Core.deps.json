@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Factory_Pattern/1.0.0": {
-        "dependencies": {
-          "Factorry_Pattern.Core": "1.0.0"
-        },
-        "runtime": {
-          "Factory_Pattern.dll": {}
-        }
-      },
       "Factorry_Pattern.Core/1.0.0": {
         "runtime": {
           "Factorry_Pattern.Core.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Factory_Pattern/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Factorry_Pattern.Core/1.0.0": {
       "type": "project",
       "serviceable": false,

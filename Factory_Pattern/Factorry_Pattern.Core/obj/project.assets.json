@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Factorry_Pattern.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Factorry_Pattern.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Factorry_Pattern.Core.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Factorry_Pattern.Core/1.0.0": {
-      "type": "project",
-      "path": "../Factorry_Pattern.Core/Factorry_Pattern.Core.csproj",
-      "msbuildProject": "../Factorry_Pattern.Core/Factorry_Pattern.Core.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Factorry_Pattern.Core >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\moase\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factory_Pattern\\Factory_Pattern.csproj",
-      "projectName": "Factory_Pattern",
-      "projectPath": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factory_Pattern\\Factory_Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factorry_Pattern.Core\\Factorry_Pattern.Core.csproj",
+      "projectName": "Factorry_Pattern.Core",
+      "projectPath": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factorry_Pattern.Core\\Factorry_Pattern.Core.csproj",
       "packagesPath": "C:\\Users\\moase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factory_Pattern\\obj\\",
+      "outputPath": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factorry_Pattern.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,11 +39,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factorry_Pattern.Core\\Factorry_Pattern.Core.csproj": {
-              "projectPath": "C:\\Users\\moase\\OneDrive\\Desktop\\Design_Patterns\\Factory_Pattern\\Factorry_Pattern.Core\\Factorry_Pattern.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
