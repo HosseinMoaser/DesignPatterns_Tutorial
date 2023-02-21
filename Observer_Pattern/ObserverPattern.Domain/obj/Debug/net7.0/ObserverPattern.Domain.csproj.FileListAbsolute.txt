@@ -1,0 +1,12 @@
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\bin\Debug\net7.0\ObserverPattern.Domain.deps.json
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\bin\Debug\net7.0\ObserverPattern.Domain.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\bin\Debug\net7.0\ObserverPattern.Domain.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.AssemblyInfo.cs
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\refint\ObserverPattern.Domain.dll
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ObserverPattern.Domain.pdb
+C:\Users\moase\OneDrive\Desktop\Design_Patterns\Observer_Pattern\ObserverPattern.Domain\obj\Debug\net7.0\ref\ObserverPattern.Domain.dll

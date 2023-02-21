@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_Pattern", "Observer_Pattern\Observer_Pattern.csproj", "{985FEDF6-70FC-49CD-BFB6-1A93548E4200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Domain", "ObserverPattern.Domain\ObserverPattern.Domain.csproj", "{D01E2AC0-B0B6-4BA8-9EE8-46DB9621C5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985FEDF6-70FC-49CD-BFB6-1A93548E4200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985FEDF6-70FC-49CD-BFB6-1A93548E4200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985FEDF6-70FC-49CD-BFB6-1A93548E4200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985FEDF6-70FC-49CD-BFB6-1A93548E4200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01E2AC0-B0B6-4BA8-9EE8-46DB9621C5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01E2AC0-B0B6-4BA8-9EE8-46DB9621C5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01E2AC0-B0B6-4BA8-9EE8-46DB9621C5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01E2AC0-B0B6-4BA8-9EE8-46DB9621C5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AEC790D-7C36-4790-9481-103234886BAA}
+	EndGlobalSection
+EndGlobal
